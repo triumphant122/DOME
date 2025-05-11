@@ -1,0 +1,12 @@
+# 虚拟环境
+venv/
+.venv/
+env/
+*.pyc
+__pycache__/
+
+# 其他常见忽略项
+.idea/
+.vscode/
+*.log
+*.sqlite3
